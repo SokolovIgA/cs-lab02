@@ -6,7 +6,7 @@ using namespace std;
 int main()
 {
     cout << "Enter A and B: " << endl;
-    int a, b;
+    double a, b;
     vector <double> znacheniya(4);
     cin >> a >> b;
     cout << "A + B = " << a + b << '\n'
